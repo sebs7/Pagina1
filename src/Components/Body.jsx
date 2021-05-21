@@ -1,7 +1,7 @@
 import React from "react";
-import IM1 from "./img/IM1.jpg"
-import IM2 from "./img/IM2.jpg"
-import IM3 from "./img/IM3.jpg"
+import IM1 from "../img/IM1.jpg";
+import IM2 from "../img/IM2.jpg";
+import IM3 from "../img/IM3.jpg";
 import {Carousel} from 'react-bootstrap';
 
 function Body(){
